@@ -38,6 +38,6 @@ python Main_interactive_interface.py
 
 ## Author
 
-Kollu Manoj Kumar  
+Kollu Manoj Kumar,Navya sri
 💡 Machine Learning & Computer Vision Enthusiast  
 📧 Feel free to reach out for collaboration or project discussions.  
